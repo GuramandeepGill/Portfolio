@@ -1,7 +1,8 @@
 body{
    width: 100vw;
    height: 100vh;
-   background: linear-gradient(to right, lightblue, skyblue);
+   /* background: linear-gradient(to right, lightblue, skyblue); */
+   background-color: rgb(242, 199, 68);
    font-family: 'Roboto';
 }
 
