@@ -3,11 +3,11 @@ body{
    height: 100vh;
    /* background: linear-gradient(to right, lightblue, skyblue); */
    background-color: rgb(242, 199, 68);
-   font-family: 'Roboto';
+   font-family: 'Quicksand', 'Roboto', sans-serif;
 }
 
 #content {
-   padding: 20px;
+   padding: 40px;
 }
 
 header{
