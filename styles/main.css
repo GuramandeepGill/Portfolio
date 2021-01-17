@@ -6,6 +6,12 @@ body{
    font-family: 'Roboto';
 }
 
+header{
+   display: flex;
+   align-items: baseline;
+   justify-content: space-between;
+}
+
 h1{
    font-size: xx-large;
 }
