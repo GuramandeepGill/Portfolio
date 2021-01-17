@@ -15,3 +15,7 @@ header{
 h1{
    font-size: xx-large;
 }
+
+nav a{
+   margin-left: 40px;
+}
