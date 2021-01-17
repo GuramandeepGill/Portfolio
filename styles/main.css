@@ -23,3 +23,9 @@ h1{
 nav a{
    margin-left: 40px;
 }
+
+footer {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
